@@ -4,7 +4,7 @@ import { ToastrService } from 'ngx-toastr';
 import { CarService } from 'src/app/services/car.service';
 
 @Component({
-  selector: 'app-product-add',
+  selector: 'app-car-add',
   templateUrl: './car-add.component.html',
   styleUrls: ['./car-add.component.css']
 })
